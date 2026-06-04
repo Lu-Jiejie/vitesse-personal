@@ -3,6 +3,6 @@ allowBuilds:
   simple-git-hooks: true
 minimumReleaseAgeExclude:
   - '@iconify-json/carbon@1.2.23'
+  - '@types/node@25.9.1'
 shellEmulator: true
-
 trustPolicy: no-downgrade
