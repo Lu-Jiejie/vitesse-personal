@@ -12,7 +12,6 @@ A personal modified fork of [vitesse-lite](https://github.com/antfu-collective/v
 - ✅ Use [Vitest](http://vitest.dev/) for unit and components testing
 - 🦾 TypeScript, of course
 - ☁️ Deploy on Netlify, zero-config
--
 
 ## Pre-packed
 
